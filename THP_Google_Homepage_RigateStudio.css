@@ -1,0 +1,88 @@
+#pagecomplete
+{
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+height: 700px;
+}
+
+.header
+{
+display: flex;
+justify-content: flex-end;
+align-items: center;
+}
+
+.Gmail
+{ 
+display: flex;
+justify-content: flex-end;
+}
+
+.Images
+{
+display: flex;
+justify-content: flex-end;
+}
+
+.Applications
+{
+display: flex;
+justify-content: flex-end;
+}
+
+.Recherche
+{
+display: flex;
+justify-content: flex-end;
+}
+
+.recherchebar
+{
+ display: flex;
+ justify-content: center;
+ margin: auto;
+}
+
+.Doodle
+{
+  display: flex;
+  justify-content: center;
+}
+
+.Doodlepartage
+{
+  display: flex;
+  justify-content: center;    
+}
+
+.Barrederecherche
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.footer
+{
+display: flex;
+justify-content: center;
+}
+
+.footerleft
+{
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-content: space-around;
+float: left;
+}
+
+.footerright
+{
+display: flex;
+flex-direction: row;
+justify-content: flex;
+align-content: space-around;
+float: right;
+}
